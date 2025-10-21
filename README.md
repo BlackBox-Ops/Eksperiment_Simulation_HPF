@@ -17,8 +17,8 @@ Rangkaian HPF menggunakan topologi **Sallen-Key Orde 2** dengan penguatan (gain)
 
 | Komponen | Nilai | Tujuan |
 | :--- | :--- | :--- |
-| **R1** | 4.7 M$\Omega$ | Penentu Frekuensi |
-| **R2** | 10 M$\Omega$ | Penentu Frekuensi |
+| **R1** | 4.7 M | Penentu Frekuensi |
+| **R2** | 10  M | Penentu Frekuensi |
 | **C1** | 470 nF | Penentu Frekuensi |
 | **C2** | 470 nF | Penentu Frekuensi |
 
