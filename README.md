@@ -59,5 +59,4 @@ Simulasi *Bode Plot* dilakukan untuk memverifikasi kinerja frekuensi HPF.
 
 **Lihat juga:**
 
-* [Kode Python untuk Verifikasi Fungsi Alih HPF](link_ke_file_python_anda)
-* [Skematik Rangkaian Filter Gabungan](img/image_6cce5e.png)
+* [Kode Python untuk Verifikasi Fungsi Alih HPF](code/)
