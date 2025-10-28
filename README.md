@@ -1,6 +1,6 @@
 # Proyek Bio-Instrumentasi EKG Wireless (HPF 0.05 Hz)
 
-Proyek ini berfokus pada desain sistem pemantauan EKG (Elektrokardiogram) menggunakan **ESP32 LoRa TTGO** dan **Modul AD8232**, yang didahului oleh rangkaian filter aktif analog yang presisi.
+Proyek ini berfokus pada desain sistem pemantauan EKG (Elektrokardiogram) menggunakan yang didahului oleh rangkaian filter aktif analog yang presisi.
 Bagian ini mendokumentasikan desain dan verifikasi **High-Pass Filter (HPF)** Orde 2 untuk menghilangkan *Baseline Wander*.
 
 ## 1. Tujuan HPF
